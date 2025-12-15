@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jBa81PsNDI0MrVu7FfO8lwFmx92HqCr0fXO1POv+NW8=",
+  "Source": "MembershipManagement",
+  "BasePath": "_content/MembershipManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
